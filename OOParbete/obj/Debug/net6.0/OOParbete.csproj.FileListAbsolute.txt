@@ -1,0 +1,15 @@
+C:\Users\mikae\source\repos\OOParbete\OOParbete\bin\Debug\net6.0\OOParbete.exe
+C:\Users\mikae\source\repos\OOParbete\OOParbete\bin\Debug\net6.0\OOParbete.deps.json
+C:\Users\mikae\source\repos\OOParbete\OOParbete\bin\Debug\net6.0\OOParbete.runtimeconfig.json
+C:\Users\mikae\source\repos\OOParbete\OOParbete\bin\Debug\net6.0\OOParbete.dll
+C:\Users\mikae\source\repos\OOParbete\OOParbete\bin\Debug\net6.0\OOParbete.pdb
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\OOParbete.csproj.AssemblyReference.cache
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\OOParbete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\OOParbete.AssemblyInfoInputs.cache
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\OOParbete.AssemblyInfo.cs
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\OOParbete.csproj.CoreCompileInputs.cache
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\OOParbete.dll
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\refint\OOParbete.dll
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\OOParbete.pdb
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\OOParbete.genruntimeconfig.cache
+C:\Users\mikae\source\repos\OOParbete\OOParbete\obj\Debug\net6.0\ref\OOParbete.dll
